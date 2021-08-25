@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hackedbyRUB1X
-- 👀 I’m interested in ... cybersecurity
+- 👀 I’m interested in ... cybersecurity, and ETHICAL hacking
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me ... no way 
